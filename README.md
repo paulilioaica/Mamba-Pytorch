@@ -7,7 +7,7 @@ This is a PyTorch project that implements a minimalistic Mamba architecture [des
 The Mamba model is a sequence-to-sequence model, suitable for various tasks, from signal processing, NLP, regression etc.
 It is also tested on TinySheakspeare dataset.
 
-For more details on the transformer architecture, refer to the original paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752).
+For more details on the architecture, refer to the original paper: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752).
 
 ## Setup
 
